@@ -4,3 +4,8 @@ Un blog increible creado por el curso de Git y Git Hub de Platzi, donde se apren
 #### Finalmente
 
 > Agradecer de ante mano todo lo aprendido con esta plataforma, ya que es como una familia. ThanksGod
+
+## Temario
+
+* Todos los comandos de GIT
+* Creado por el increible Platzi Team
